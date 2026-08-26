@@ -1,4 +1,4 @@
-# 👋 Hi, I'm YOUR NAME
+# 👋 Hi, I'm NIVAAS RAJ 
 
 <!-- Typing Animation -->
 <p align="center">
