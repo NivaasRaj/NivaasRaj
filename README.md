@@ -6,7 +6,7 @@
 
 <p align="center">
   <img
-    src="./hero.gif"
+    src="./hero.gif.png"
     width="100%"
     alt="Nivaas Raj Cinematic Hero"
   />
