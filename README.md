@@ -1,17 +1,20 @@
 # 👋 Hi, I'm NIVAAS RAJ 
 
-<!-- Typing Animation -->
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Software+Engineer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
-  </a>
+  <img
+    src="./hero.png"
+    alt="Nivaas Raj - Full Stack Developer"
+    width="100%"
+  />
 </p>
 
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<br>
 
+<h1 align="center">👋 Hi, I'm NIVAAS RAJ</h1>
+
+<p align="center">
+  <strong>Software Engineer</strong>
+</p>
 ---
 
 ## 🚀 About Me
