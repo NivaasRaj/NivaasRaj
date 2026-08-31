@@ -47,7 +47,7 @@ IT'S ME !
   />
 </a>
 
-<a href="PORTFOLIO">
+<a href="PORTFOLIO.HTML">
   <img
     src="https://img.shields.io/badge/Portfolio-39D353?style=for-the-badge&logo=googlechrome&logoColor=white"
     alt="Portfolio"
