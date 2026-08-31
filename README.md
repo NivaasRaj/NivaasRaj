@@ -5,11 +5,8 @@
 <!-- ========================= HERO ========================== -->
 
 <p align="center">
-  <img
-    src="./hero.gif.png"
-    width="100%"
-    alt="Nivaas Raj Cinematic Hero"
-  />
+  <img src="./hero.gif" width="100%" alt="Nivaas Raj">
+</p>
 </p>
 
 <br>
