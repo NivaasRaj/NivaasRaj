@@ -6,7 +6,7 @@
 IT'S ME !
 
 <p align="center">
-  <a href="./hero.PNG">
+  <a href="./hero.gif">
     <img src="./hero-thumbnail.png" width="100%" alt="Nivaas Raj Cinematic Video">
   </a>
 </p>
