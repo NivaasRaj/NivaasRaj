@@ -52,14 +52,6 @@ IT'S ME !
     src="https://img.shields.io/badge/Portfolio-39D353?style=for-the-badge&logo=googlechrome&logoColor=white"
     alt="Portfolio"
   />
-  # 💼 My Portfolio
-
-Welcome to my personal portfolio! 👋
-
-## 🌐 Portfolio
-
-👉 [🚀 View My Portfolio](./PORTFOLIO.HTML)
-</a>
 
 <a href="mailto:YOUR_EMAIL">
   <img
