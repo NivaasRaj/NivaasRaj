@@ -6,11 +6,8 @@
 IT'S ME !
 
 <p align="center">
-  <a src ="./hero.gif">
-  </a>
+  <img src="./hero.gif" width="100%" alt="Nivaas Raj">
 </p>
-
-
 
 <!-- ======================= INTRO =========================== -->
 
