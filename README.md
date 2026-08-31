@@ -5,7 +5,7 @@
 <!-- ========================= HERO ========================== -->
 
 <p align="center">
-  <a href="./hero.mp4">
+  <a href="./hero.mp4.mp4">
     <img src="./hero-thumbnail.png" width="100%" alt="Nivaas Raj Cinematic Video">
   </a>
 </p>
